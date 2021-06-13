@@ -20,7 +20,7 @@ a set of codes referring to the pygame module. open <a href="./pygame" title="go
 
 # **<a name=license>License</a>**  <h6>[back to indice](#index)</h6>
 
-For more information on the license for this project read the <a href="./LICENSE" target="_blank" title="go to license file">LICENSE</a> file.
+For more information on the license for this project read the <a target="_blank" href="./LICENSE" title="go to license file">LICENSE</a> file.
 
 ---
 
