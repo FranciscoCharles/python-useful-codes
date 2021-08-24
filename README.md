@@ -9,6 +9,7 @@ useful codes in python that I created to solve problems I had using the language
 
 - [**Folders**](#folders)
   + [_**Pygame**_](#pygame)
+  + [_**Numpy**_](#numpy)
 - [**License**](#license)
 
 # **<a name=folder>Folders</a>** <h6>[back to indice](#index)</h6>
@@ -17,6 +18,8 @@ Below is a brief description of each existing folder in this project.
 # **<a name=pygame>Folder: Pygame</a>**  <h6>[back to indice](#index)</h6>
 a set of codes referring to the pygame module. open <a href="./pygame" title="go to pygame folder">pygame</a> folder.
 
+# **<a name=numpy>Folder: Numpy</a>**  <h6>[back to indice](#index)</h6>
+a set of codes referring to the numpy module. open <a href="./numpy" title="go to numpy folder">numpy</a> folder.
 
 # **<a name=license>License</a>**  <h6>[back to indice](#index)</h6>
 
